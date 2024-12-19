@@ -1,7 +1,7 @@
 # 🇵🇪 🇵🇪 JCONFPERU: Decoding the Mind of AI – Explainable AI (xAI) in Large Language Models (LLMs) 🇵🇪 🇵🇪 
 
 ![image](https://github.com/user-attachments/assets/5bead133-a6e3-40f5-8cf9-5bebe032f3cb)
-![image](https://github.com/user-attachments/assets/8ffd39c0-7589-4c36-9213-d2d07e7894ce)
+![image](https://github.com/user-attachments/assets/8ffd39c0-7589-4c36-9213-d2d07e7894ce)    
 
 
 Welcome to the repository for the presentation *"Decoding the Mind of AI: Explainable AI (xAI) in Large Language Models (LLMs)"* delivered by **Mortadha Manai** at JCONF PERU 2024. This repository contains the slides, code examples, and supplementary materials used during the session.
